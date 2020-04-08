@@ -2,8 +2,8 @@ import csv
 import boto3
 from botocore.exceptions import NoCredentialsError
 
-ACCESS_KEY = 'AKIATLAFMMWSYHG2TSM4'
-SECRET_KEY = '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'
+ACCESS_KEY = [Enter Access Key Here]
+SECRET_KEY = [Enter Secret Key Here]
 #MOUNT_PREFIX = '/Volumes/home'
 #AWS_PREFIX = 'originals'
 #BUCKET_NAME = 'yale-image-samples'
